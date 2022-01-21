@@ -1,0 +1,80 @@
+body
+{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: #DEDEDE;
+  display: block;
+  font-size: 0.7rem;
+  padding: 1rem 2rem 2rem 2rem;
+  background: #CCCCCC url("pattern.jpg") repeat left top;
+}
+section
+{
+  padding: 0.2rem 0 0.2rem 0;
+}
+a
+{
+  text-decoration: none;
+  color: #7986AC;
+}
+p
+{
+  padding: 1rem;
+}
+footer
+{
+  display: block;
+  font-size: 0.5rem;
+}
+.center
+{
+  margin: auto;
+  max-width: 500px;
+  padding: 3%;
+  border: 1px solid #004208;
+  border-radius: 5%;
+  background-color: #999999;
+  box-shadow: 1rem 1rem 0.5rem black;
+}
+.pageContent
+{
+  margin: auto;
+  width: 80%;
+  padding: 0 3% 0 3%;
+  display: block;
+  overflow: auto;
+}
+.mainText
+{
+  float: left;
+  padding: 1em;
+  display: none;
+  border: 1px solid #004208;
+  border-radius: 15px 0;
+/ / box-shadow: 0.3 rem 0.3 rem 0.1 rem black;
+}
+#who
+{
+  background-color: #7986AC;
+}
+#what
+{
+  background-color: #4F608F;
+}
+#how
+{
+  background-color: #162756;
+}
+#more
+{
+  background-color: #061439;
+}
+#textContent
+{
+  min-height: 300px;
+}
+/* fix for IE */
+object
+{
+  width: 100%;
+  display: block;
+}

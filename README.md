@@ -1,2 +1,14 @@
-# svg-animation
-Vanilla javascript code for the animation of SVG elements. Can be used to make some cool effects.
+# SVG Animation
+
+A test animating SVG elements with JavaScript.
+
+## Notes
+
+Animates some SVG graphics using them as navigation links.
+
++ Never mind the placeholder contents.
++ Should give you ideas on how you could create cool effects on websites by animating SVGs.
+
+## What is included
+
+Full project including a javascript json content parser.

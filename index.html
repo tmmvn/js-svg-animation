@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      Brologi
+    </title>
+    <meta charset="utf-8" />
+    <meta name="description" />
+    <meta name="author" />
+    <meta name="viewport"
+          content="width=device-width, maximum-scale=1.0, user-scalable=2.0;"
+    />
+    <link rel="stylesheet"
+          href="html5reset.css"
+    />
+    <link rel="stylesheet"
+          href="svg.css"
+    />
+    <script type="text/javascript"
+            src="jquery-1.10.1.min.js"
+    ></script>
+    <script type="text/javascript"
+            src="svg.js"
+    ></script>
+    <script type="text/javascript"
+            src="content-parser.js"
+    ></script>
+  </head>
+  <body style="">
+    <main class="center">
+      <section id="banner"
+               class="pageContent"
+      >
+        <object id="svgobject"
+                data="web-circles.svg"
+                type="image/svg+xml"
+                height="100%"
+                width="100%"
+        >
+          Your browser doesn&apos;t support SVG. Maybe it is time for you to join the 2016?
+        </object>
+      </section>
+      <section id="textContent"
+               class="pageContent"
+      >
+        <p id="who"
+           class="mainText"
+        >
+          <script>parseContentOnly("who.json", "who")</script>
+        </p>
+        <p id="what"
+           class="mainText"
+        >
+          <script>parseContentOnly("what.json", "what")</script>
+        </p>
+        <p id="how"
+           class="mainText"
+        >
+          <script>parseContentOnly("how.json", "how")</script>
+        </p>
+        <p id="more"
+           class="mainText"
+        >
+          <script>parseContentOnly("more.json", "more")</script>
+        </p>
+      </section>
+      <footer class="pageContent">
+        <p>
+          &copy; Copyright Tommi Venemies 2016
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>

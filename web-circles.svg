@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="scene" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 750 274.1" style="enable-background:new 0 0 750 274.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#061439;stroke:#222221;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:#FAFAFA;}
+	.st2{font-family:'AzoSans-Regular';}
+	.st3{font-size:52.5056px;}
+	.st4{fill:#162756;stroke:#222221;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:#4F608F;stroke:#222221;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:#7986AC;stroke:#222221;stroke-linecap:round;stroke-miterlimit:10;}
+	.st7{display:none;fill:#ECECEC;stroke:#222221;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<font horiz-adv-x="1000">
+
+<!-- Azo Sans Regular is a trademark of Rui Abreu, Portugal. -->
+
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+
+<font-face font-family="AzoSans-Regular" units-per-em="1000" underline-position="-120" underline-thickness="50"/>
+
+<missing-glyph horiz-adv-x="648" d="M152,604l100,-101l-100,-100l100,-101l-100,-100l212,-213l132,132l-101,100l101,101l-101,100l101,101l-213,212z"/>
+
+<glyph unicode="A" horiz-adv-x="698" d="M5,0l97,0l82,202l326,0l81,-202l102,0l-299,724l-91,0M276,432C301,494 325,555 347,614l2,0C371,555 395,493 418,435l59,-150l-260,0z"/>
+
+<glyph unicode="E" horiz-adv-x="551" d="M81,0l427,0l0,86l-332,0l0,249l283,0l0,83l-283,0l0,220l323,0l0,86l-418,0z"/>
+
+<glyph unicode="H" horiz-adv-x="746" d="M81,0l95,0l0,333l394,0l0,-333l95,0l0,724l-95,0l0,-305l-394,0l0,305l-95,0z"/>
+
+<glyph unicode="M" horiz-adv-x="859" d="M428,197l158,226C619,470 651,518 683,566l2,-1C684,522 683,467 683,408l0,-408l95,0l0,724l-91,0l-257,-368l-257,368l-92,0l0,-724l92,0l0,408C173,467 172,522 171,565l2,1C205,518 237,470 270,423z"/>
+
+<glyph unicode="O" horiz-adv-x="816" d="M40,362C40,152 198,-11 408,-11C618,-11 776,152 776,362C776,572 618,735 408,735C198,735 40,572 40,362M135,362C135,521 250,647 408,647C566,647 681,521 681,362C681,203 566,77 408,77C250,77 135,203 135,362z"/>
+
+<glyph unicode="R" horiz-adv-x="646" d="M81,0l95,0l0,310l123,0l221,-310l115,0l-232,319C433,324 460,333 486,349C541,382 579,441 579,519C579,599 539,655 479,688C420,721 350,724 277,724l-196,0M176,388l0,250l94,0C340,638 386,635 425,614C463,593 484,557 484,511C484,471 468,441 441,421C408,396 363,388 299,388z"/>
+
+<glyph unicode="T" horiz-adv-x="621" d="M263,0l95,0l0,638l243,0l0,86l-581,0l0,-86l243,0z"/>
+
+<glyph unicode="W" horiz-adv-x="1013" d="M237,0l103,0l115,367C473,424 490,481 506,536l2,0C524,481 541,425 559,368l116,-368l101,0l225,724l-96,0l-121,-391C765,271 745,205 727,143l-2,0C706,207 687,268 667,332l-123,392l-70,0l-123,-391C331,269 311,205 293,143l-2,0C273,205 253,271 234,332l-121,392l-101,0z"/>
+
+</font>
+
+
+<image class="st7" style="overflow:visible;" width="3840" height="2160" id="photo" xlink:href="banner.jpg"  transform="matrix(-0.1953 0 0 -0.1269 750 274.0668)">
+</image>
+<circle id="fourthcircle" class="st0" cx="639.8" cy="140.9" r="99.2"/>
+<text id="fourthtext" x="559.0957" y="156.3921" class="st1 st2 st3">MORE</text>
+<circle id="thirdcircle" class="st4" cx="632.5" cy="140.9" r="99.2"/>
+<text id="thirdtext" x="563.0684" y="156.3921" class="st1 st2 st3">HOW</text>
+<circle id="secondcircle" class="st5" cx="620.9" cy="140.9" r="99.2"/>
+<text id="secondtext" x="540.1357" y="156.3921" class="st1 st2 st3">WHAT</text>
+<circle id="firstcircle" class="st6" cx="612.3" cy="140.9" r="99.2"/>
+<text id="firsttext" x="543.5625" y="158.8159" class="st1 st2 st3">WHO</text>
+<circle id="firststart" class="st7" cx="612.3" cy="140.9" r="99.2"/>
+<circle id="secondstart" class="st7" cx="620.9" cy="140.9" r="99.2"/>
+<circle id="thirdstart" class="st7" cx="632.5" cy="140.9" r="99.2"/>
+<circle id="fourthstart" class="st7" cx="639.8" cy="140.9" r="99.2"/>
+<circle id="firstend" class="st7" cx="115.4" cy="142.2" r="99.2"/>
+<circle id="secondend" class="st7" cx="124" cy="142.2" r="99.2"/>
+<circle id="thirdend" class="st7" cx="135.7" cy="142.2" r="99.2"/>
+<circle id="fourthend" class="st7" cx="142.9" cy="142.2" r="99.2"/>
+</svg>
